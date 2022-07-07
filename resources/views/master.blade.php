@@ -21,7 +21,7 @@
     {
       $("button").click(function()
       {
-        alert("Hello World!");
+        alert("Logged In!");
       })
     })
   </script>
