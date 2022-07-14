@@ -15,16 +15,6 @@
   {{View::make('header')}}
   @yield('content')
   {{View::make('footer')}}
-
-  <script>
-    $(document).ready(function() 
-    {
-      $("button").click(function()
-      {
-        alert("Logged In!");
-      })
-    })
-  </script>
 </body>
 <style>
   .custom-login {
