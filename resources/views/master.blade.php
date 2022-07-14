@@ -32,6 +32,14 @@
     padding-top: 100px;
   }
 
+  .carousel-control-prev {
+    filter: invert(100%);
+  }
+
+  .carousel-control-next {
+    filter: invert(100%);
+  }
+
   img.slider-img {
     display: block;
     margin-left: auto;
@@ -46,6 +54,23 @@
 
   .slider-caption {
     background-color: #35443585 !important;
+  }
+
+  .trending-image {
+    height: 100px;
+  }
+
+  .trending-item {
+    float: left;
+    width: 33.3%;
+  }
+
+  .trending-wrapper {
+    margin: 30px;
+  }
+
+  .trending-title {
+    margin-bottom: 30px;
   }
 </style>
 </html>
