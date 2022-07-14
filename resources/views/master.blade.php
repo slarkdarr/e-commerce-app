@@ -72,5 +72,9 @@
   .trending-title {
     margin-bottom: 30px;
   }
+
+  .detail-img {
+    height: 200px;
+  }
 </style>
 </html>
